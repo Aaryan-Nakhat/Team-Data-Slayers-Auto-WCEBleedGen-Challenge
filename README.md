@@ -28,6 +28,14 @@ A robust implementation of Auto-WCEBleedGen Classification and Detection
 ![sample](miscellaneous/test_data_1_results_screenshots/example_4.jpg)
 ![sample](miscellaneous/test_data_1_results_screenshots/example_5.jpg)
 
+## Screenshots of 5 images from the test dataset 2 showcasing classification and detection
+
+![sample](miscellaneous/test_data_2_results_screenshots/example_1.jpg)
+![sample](miscellaneous/test_data_2_results_screenshots/example_2.jpg)
+![sample](miscellaneous/test_data_2_results_screenshots/example_3.jpg)
+![sample](miscellaneous/test_data_2_results_screenshots/example_4.jpg)
+![sample](miscellaneous/test_data_2_results_screenshots/example_5.jpg)
+
 ## Running classification inference on test data
 
 - Firstly run <code>pip install -r requirements.txt</code> to install all dependencies.
