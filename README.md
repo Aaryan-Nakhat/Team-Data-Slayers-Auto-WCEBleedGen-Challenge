@@ -11,7 +11,7 @@ A robust implementation of Auto-WCEBleedGen Classification and Detection
 
 ## Screenshots of 5 images from the test dataset 1 and 2 respectively showcasing classification and detection
 
-## Running inference on test data
+## Running classification inference on test data
 
 - Firstly run <code>pip install -r requirements.txt</code> to install all dependencies.
 - Then run:
@@ -19,6 +19,8 @@ A robust implementation of Auto-WCEBleedGen Classification and Detection
   <code>python classification_inference_on_test_datasets.py --image_folders "<path_to_test_data_1>" "<path_to_test_data_2>"</code>
 
 This will save the results of inference on the test data in an excel file with a default name of "test_data_predictions_combined.xlsx". You can also change the name of the excel file by giving <code>--output_file</code> as a command line argument.
+
+The inference is already run and the classification results on the test datasets are present in <code>test_data_predictions_combined.xlsx</code> file.
 
 ## Demo
 
