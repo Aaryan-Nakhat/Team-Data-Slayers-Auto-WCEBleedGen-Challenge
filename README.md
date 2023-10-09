@@ -9,6 +9,8 @@ A robust implementation of Auto-WCEBleedGen Classification and Detection
 
 ## Screenshots of 10 images from the validation dataset showcasing classification and detection
 
+![Demo](miscellaneous/validation_results_screenshots/example_1.jpg)
+
 ## Screenshots of 5 images from the test dataset 1 and 2 respectively showcasing classification and detection
 
 ## Running classification inference on test data
