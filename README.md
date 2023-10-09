@@ -1,4 +1,5 @@
 # Team-Data-Slayers-Auto-WCEBleedGen-Challenge
+A robust implementation of Auto-WCEBleedGen Classification and Detection
 
 ## Achieved Metrics of Classification and Detection on the Validation Dataset
 
@@ -6,9 +7,9 @@
 |:--------:|:------:|----------|-------------------|------------------------|-------------------------------|
 |    1.0   |   1.0  | 1.0      | 0.814             | 0.814                  | 0.709                         |
 
-## Screenshots of 10 images from the validation dataset showcasing Classification and Detection
+## Screenshots of 10 images from the validation dataset showcasing classification and detection
 
-## Screenshots of 5 images from the test dataset 1 and 2 respectively showcasing Classification and Detection showcasing Classification and Detection
+## Screenshots of 5 images from the test dataset 1 and 2 respectively showcasing classification and detection
 
 ## Running inference on test data
 
