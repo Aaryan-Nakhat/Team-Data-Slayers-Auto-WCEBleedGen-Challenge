@@ -1,1 +1,1 @@
-The notebook titled <code>Classification_Model_for_training_and_validation.ipynb</code> contains the code for the classification model!
+The notebook titled <code>Classification_Model_for_training_and_validation.ipynb</code> contains the code for the classification model and <code>Segmentation_Model_for_training_and_validation.ipynb</code> contains the code for the segmentation model.
