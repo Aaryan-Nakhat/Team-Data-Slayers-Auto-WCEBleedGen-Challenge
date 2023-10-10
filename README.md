@@ -39,7 +39,7 @@ A robust implementation of Auto-WCEBleedGen Classification and Detection
 ## Interpretability plots on the Validation Dataset
 
 1) Receiver Operating Characteristic Curve
-   ![sample](miscellaneous/Interpretability_plots/ROC_Curve_validation_set.png)
+   ![sample](miscellaneous/interpretability_plots/ROC_Curve_validation_set.png)
 
 2) Precision Recall Curve
    ![sample](miscellaneous/interpretability_plots/Precision_Recall_Curve_validation_set.png)
