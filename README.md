@@ -1,5 +1,5 @@
 # Team-Data-Slayers-Auto-WCEBleedGen-Challenge
-A robust implementation of Auto-WCEBleedGen Classification and Detection
+A robust implementation of Auto-WCEBleedGen Classification and Detection.
 
 ## Achieved Metrics of Classification and Detection on the Validation Dataset
 
