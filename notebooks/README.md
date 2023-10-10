@@ -2,7 +2,7 @@
 
 - The notebook titled <code>Classification_Model_for_training_and_validation.ipynb</code> contains the code for the classification model and <code>Segmentation_Model_for_training_and_validation.ipynb</code> contains the code for the segmentation model.
 
-- The notebook titled <code>Save_Classification_Model_Preds_Only_Bleeding.ipynb</code> contains the code for saving bleeding predicted train and validation samples in a new folder, which will serve as inputs for the segmentation task.
+- The notebook titled <code>save_classification_model_preds_only_bleeding.ipynb</code> contains the code for saving bleeding predicted train and validation samples in a new folder, which will serve as inputs for the segmentation task.
 
 - And notebooks titled <code>inference-val-data-for-screenshots.ipynb</code>, <code>inference-test-data-1-for-screenshots.ipynb</code>, and <code>inference-test-data-2-for-screenshots.ipynb</code> contain the code for inferring screenshots from the validation, test dataset, and test dataset 2, respectively, which are used on the homepage of this repository.
 
@@ -11,7 +11,7 @@
 
 1) <code>Classification_Model_for_training_and_validation.ipynb</code> for training and validating the classification model
 
-2) <code>Save_Classification_Model_Preds_Only_Bleeding.ipynb</code> for saving bleeding predicted train and validation samples in a folder which will be used in the next step for segmentation
+2) <code>save_classification_model_preds_only_bleeding.ipynb</code> for saving bleeding predicted train and validation samples in a folder which will be used in the next step for segmentation
 
 3) <code>Segmentation_Model_for_training_and_validation.ipynb</code> for training and validating the segmentation model
 
