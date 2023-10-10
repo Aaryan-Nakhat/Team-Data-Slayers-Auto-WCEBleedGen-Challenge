@@ -1,1 +1,3 @@
 The notebook titled <code>Classification_Model_for_training_and_validation.ipynb</code> contains the code for the classification model and <code>Segmentation_Model_for_training_and_validation.ipynb</code> contains the code for the segmentation model.
+
+Meanwhile, notebooks titled <code>inference-val-data-for-screenshots.ipynb</code>, <code>inference-test-data-1-for-screenshots.ipynb</code>, and <code>inference-test-data-2-for-screenshots.ipynb</code> contain the code for inferring screenshots from the validation, test dataset, and test dataset 2, respectively, which are used on the homepage of this repository.
