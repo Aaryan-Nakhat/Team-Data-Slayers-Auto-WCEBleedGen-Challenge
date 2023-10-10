@@ -36,6 +36,17 @@ A robust implementation of Auto-WCEBleedGen Classification and Detection
 ![sample](miscellaneous/test_data_2_results_screenshots/example_4.jpg)
 ![sample](miscellaneous/test_data_2_results_screenshots/example_5.jpg)
 
+## Interpretability plots on the Validation Dataset
+
+1) Receiver Operating Characteristic Curve
+   ![sample](miscellaneous/Interpretability_plots/ROC_Curve_validation_set.png)
+
+2) Precision Recall Curve
+   ![sample](miscellaneous/Interpretability_plots/Precision_Recall_Curve_validation_set.png)
+
+3) Confusion Matrix
+   ![sample](miscellaneous/Interpretability_plots/confusion_matrix_validation_set.png)
+
 ## Running classification inference on test data
 
 - Firstly run <code>pip install -r requirements.txt</code> to install all dependencies.
