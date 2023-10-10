@@ -4,7 +4,7 @@
 
 - The notebook titled <code>Save_Classification_Model_Preds_Only_Bleeding.ipynb</code> contains the code for saving bleeding predicted train and validation samples in a new folder, which will serve as inputs for the segmentation task.
 
-- Meanwhile, notebooks titled <code>inference-val-data-for-screenshots.ipynb</code>, <code>inference-test-data-1-for-screenshots.ipynb</code>, and <code>inference-test-data-2-for-screenshots.ipynb</code> contain the code for inferring screenshots from the validation, test dataset, and test dataset 2, respectively, which are used on the homepage of this repository.
+- And notebooks titled <code>inference-val-data-for-screenshots.ipynb</code>, <code>inference-test-data-1-for-screenshots.ipynb</code>, and <code>inference-test-data-2-for-screenshots.ipynb</code> contain the code for inferring screenshots from the validation, test dataset, and test dataset 2, respectively, which are used on the homepage of this repository.
 
 
 ## Order of execution:
